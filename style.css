@@ -4,14 +4,15 @@ header {
 
 .headerContainer {
     max-width: 1180px;
-    font-size: 2.5rem;
+    font-size: 2rem;
     display: flex;
     align-items: center;
+    padding: 1rem 0;
 }
 
 .logo {
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
     margin-right: 0.5rem;
 }
 
